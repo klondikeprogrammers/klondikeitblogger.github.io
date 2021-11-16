@@ -285,12 +285,11 @@ background: linear-gradient(to right, #333399, #ff00cc); /* W3C, IE 10+/ Edge, F
 	background: -webkit-linear-gradient(to right, #EDDE5D, #F09819);  /* Chrome 10-25, Safari 5.1-6 */
 	background: linear-gradient(to right, #EDDE5D, #F09819); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     border-radius: 120px;
-    margin-right: 540px;
-    margin-left: 220px;
+    margin-left: 340px;
     margin-top:10px;
     padding: 19px;
     color: white;
-    width: 40%;
+    width: 28%;
     text-align: center;
     outline: none;
     font-size: 20px;
@@ -1061,7 +1060,7 @@ background: linear-gradient(to right, #333399, #ff00cc); /* W3C, IE 10+/ Edge, F
 
 @media only screen and (min-width: 768px) and (max-width: 1200px) {
 	.site-logo {
-		max-width: 243px;
+		max-width: 230px;
 	}
 
 	.main-menu {
